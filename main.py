@@ -46,7 +46,7 @@ def responde(voice_data):
     if 'exit' in voice_data:
         exit()
 
-#Added a command to try git
+#Added a command to try git  
 
 time.sleep(1)
 alexis_speak('How can i help you?')
